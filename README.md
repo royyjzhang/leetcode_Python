@@ -25,4 +25,8 @@ Python code for Leetcode
 605  Can Place Flowers                                                Easy<br>
 609  Find Duplicate File in System                                    Medium<br>
 624  Maximum Distance in Arrays                                       Easy<br>
+637  Average of Levels in Binary Tree                                 Easy<br>
+657  Judge Route Circle                                               Easy<br>
+669  Trim a Binary Search Tree                                        Easy<br>
+682  Baseball Game                                                    Easy<br>
 

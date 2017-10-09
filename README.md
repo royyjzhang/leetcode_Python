@@ -18,6 +18,7 @@ Python code for Leetcode
 441  Arranging Coins                                                  Easy<br>
 507  Perfect Number                                                   Easy<br>
 526  Beautiful Arrangement                                            Medium<br>
+538  Convert BST to Greater Tree                                      Easy<br>
 561  Array Partition I                                                Easy<br>
 563  Optimal Division                                                 Medium<br>
 566  Reshape Matrix                                                   Easy<br>
@@ -26,7 +27,11 @@ Python code for Leetcode
 609  Find Duplicate File in System                                    Medium<br>
 624  Maximum Distance in Arrays                                       Easy<br>
 637  Average of Levels in Binary Tree                                 Easy<br>
+645  Set Mismatch                                                     Easy<br>
+653  Two Sum IV - Input is a BST                                      Easy<br>
 657  Judge Route Circle                                               Easy<br>
 669  Trim a Binary Search Tree                                        Easy<br>
+671  Second Minimum Node In a Binary Tree                             Easy<br>
+674  Longest Continuous Increasing Subsequence                        Easy<br>
 682  Baseball Game                                                    Easy<br>
 

@@ -27,6 +27,7 @@ Python code for Leetcode
 609  Find Duplicate File in System                                    Medium<br>
 624  Maximum Distance in Arrays                                       Easy<br>
 637  Average of Levels in Binary Tree                                 Easy<br>
+643  Maximum Average Subarray I                                       Easy<br>
 645  Set Mismatch                                                     Easy<br>
 653  Two Sum IV - Input is a BST                                      Easy<br>
 657  Judge Route Circle                                               Easy<br>
@@ -34,4 +35,6 @@ Python code for Leetcode
 671  Second Minimum Node In a Binary Tree                             Easy<br>
 674  Longest Continuous Increasing Subsequence                        Easy<br>
 682  Baseball Game                                                    Easy<br>
+687  Longest Univalue Path                                            Easy<br>
+693  Binary Number with Alternating Bits                              Easy<br>
 

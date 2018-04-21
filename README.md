@@ -38,4 +38,7 @@ Python code for Leetcode
 682  Baseball Game                                                    Easy<br>
 687  Longest Univalue Path                                            Easy<br>
 693  Binary Number with Alternating Bits                              Easy<br>
+797  All Paths From Source to Target                                  Medium<br>
+806  Number of Lines To Write String                                  Easy<br>
+814  Binary Tree Pruning                                              Medium<br>
 
